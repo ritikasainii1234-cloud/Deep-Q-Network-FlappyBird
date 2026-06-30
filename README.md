@@ -204,7 +204,11 @@ runs/flappybirdv0.log
 
 ## 📸 Gameplay
 
-> Gameplay GIF and training results will be added soon.
+## 🎮 Gameplay
+
+<p align="center">
+  <img src="images/gameplay.gif" width="320">
+</p>
 
 ---
 
